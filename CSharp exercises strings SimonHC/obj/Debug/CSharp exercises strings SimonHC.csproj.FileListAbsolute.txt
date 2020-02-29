@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\CSharp exercises strings SimonHC\CSharp exercises strings SimonHC\bin\Debug\CSharp exercises strings SimonHC.exe.config
+C:\Users\Simon\source\repos\CSharp exercises strings SimonHC\CSharp exercises strings SimonHC\bin\Debug\CSharp exercises strings SimonHC.exe
+C:\Users\Simon\source\repos\CSharp exercises strings SimonHC\CSharp exercises strings SimonHC\bin\Debug\CSharp exercises strings SimonHC.pdb
+C:\Users\Simon\source\repos\CSharp exercises strings SimonHC\CSharp exercises strings SimonHC\obj\Debug\CSharp exercises strings SimonHC.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\CSharp exercises strings SimonHC\CSharp exercises strings SimonHC\obj\Debug\CSharp exercises strings SimonHC.exe
+C:\Users\Simon\source\repos\CSharp exercises strings SimonHC\CSharp exercises strings SimonHC\obj\Debug\CSharp exercises strings SimonHC.pdb
